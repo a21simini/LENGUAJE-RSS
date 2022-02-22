@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss VERSION="2.0">
+    <channel>
+
+            <title>MR.Manzana</title>
+            <link>enlace de mi githubpage</link>
+            <language>es(Spanish)</language>
+            <lastBuildDate>Thu,17 Feb 2022 19:42:01 +0100</lastBuildDate>
+            <author><name>Nicolas Simon</name></author>
+            <image>
+                <url>https://openclipart.org/image/800px/28752</url>
+                <title>www.MRManzana.es</title>
+                <link>http://www.MRManzana.es</link>
+            </image>
+
+            <description> ultimas noticias sobre la codiciada marca de la manzana </description>
+            <item>
+                <title>definicion de rss</title>
+                <link>http://mipagina.com/definicion_RSS.html</link>
+                <category></category>
+                <description>La definicion del rss sencilla e intuitiva</description>
+            </item>
+            <item>
+                <!--contenido de la segunda entrada -->
+            </item>
+            <item>
+                <!--contenido de la tercera entrada -->
+            </item>
+
+        </channel>
+    </rss>
