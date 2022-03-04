@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Feed sobre noticias del Mundial de futbol QATAR 2022</title>
+    <id>urn:uuid:489e4646-6e74-11eb-0869-1324ac134232</id>
+    <updated>2022-03-03T9:30:02Z</updated>
+    <link href="https://lm.bules.eu/"/>
+    <subtitle>Canal de noticias sobre QATAR 2022.</subtitle>
+    <category term="Futbol"/>
+    <author>
+        <name>Nicolas Simon Milano</name>
+        <email>a21simini@iesgrancapitan.org</email>
+        <url>https://github.com/a21simini</url>
+    </author>
+
+    <entry>
+        <title>Fechas QATAR 2022</title>
+        <id>urn:uuid:489e4646-6e74-11eb-0869-1324ac134232</id>
+        <updated>2022-03-03T9:30:02Z</updated>
+        <link href="https://www.google.com/search?q=mundial+de+qatar+2022&rlz=1C1GEWG_esES953ES953&oq=mundial+de+qatar+2022&aqs=chrome..69i57j0i512l9.7398j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on#sie=lg;/m/0fp_8fm;2;/m/030q7;mt;fp;1;;"/>
+        <rights type="html"> © 2022 Nicolas Simon Milano</rights>
+        <summary>Aqui podemos ver las fechas sabidas hasta ahora.</summary>
+        <author>
+            <name>QATAR 2022</name>
+            <email> info@sc.qa</email>
+        </author>
+        <category term="Fechas"/>
+    </entry>
+   
+    <entry>
+        <title>Noticias sobre Ucrania</title>
+        <id>urn:uuid:489e4646-6e74-11eb-0869-1324ac134232</id>
+        <updated>2022-03-03T9:30:02Z</updated>
+        <link href="https://www.marca.com/futbol/mundial/2022/03/03/62211e1a268e3eeb428b4581.html"/>
+        <rights type="html"> © 2022 Nicolas Simon Milano</rights>
+        <summary>Ucrania pide aplazar ciertos partidos debido al conflicto sufrido con Rusia</summary>
+        <author>
+            <name>REDACCIÓN MARCA</name>
+            <email>atencionalsocio@clubmarca.com</email>
+        </author>
+        <category term="Noticias"/>
+    </entry>
+
+    <entry>
+        <title>FIFA se asegura el 95% de sus ingresos antes del Mundial</title>
+        <id>urn:uuid:489e4646-6e74-11eb-0869-1324ac134232</id>
+        <updated>2022-03-03T9:30:02Z</updated>
+        <link href="https://www.marca.com/futbol/mundial/2022/03/04/622200b446163f6b038b4585.html"/>
+        <rights type="html"> © 2022 Nicolas Simon Milano</rights>
+        <summary>FIFA se asegura 5.518 millones de euros antes de Qatar 2022</summary>
+        <author>
+            <name>EFE</name>
+            <email>atencionalsocio@clubmarca.com</email>
+        </author>
+        <category term="Economía"/>
+    </entry>
+
+</feed>
